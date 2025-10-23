@@ -1,4 +1,4 @@
-#Near Earth Objects Classification Using Deep and Machine Learning  - Summative Project
+# Near Earth Objects Classification Using Deep and Machine Learning  - Summative Project
 
 **Date:** October 2025  
 **Course:** Introduction to Machine Learning  
